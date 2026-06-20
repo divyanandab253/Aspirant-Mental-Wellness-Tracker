@@ -1,0 +1,6 @@
+{
+  "name": "Aspirant Mental Wellness Tracker",
+  "description": "A soothing mental wellness companion for competitive exam aspirants (NEET, UPSC, CAT) featuring sentiment journaling, mood trends, and real-time coping strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
